@@ -32,6 +32,12 @@ Future work will entail incorporating Open Zeppelin’s Safe Math library to pre
 
 * [Solidity](https://docs.soliditylang.org/en/v0.8.6/)
 
+## Future Work
+
+- Incorporating a cut off time into the smart contract for guests RSVPing.
+- Perform unit tests using JavaScript, Truffle and Mocha.
+- Build a simple front end using React.
+
 
   
 
