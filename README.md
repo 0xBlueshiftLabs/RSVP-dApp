@@ -5,7 +5,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# RSVP DApp
+# RSVP dApp
 
 
 Smart contract that allows guests to RSVP for an event by paying a small fee in to the smart contract. Said fee is returned to any guests who attend the event. Any remaining Ether left in the smart contract, a result of guests not attending, is divided up and sent to the guests that did.
