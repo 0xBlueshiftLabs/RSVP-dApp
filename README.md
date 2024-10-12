@@ -50,11 +50,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Twitter - [@TraderTDF](https://twitter.com/TraderTDF)
-
 LinkedIn - [https://www.linkedin.com/in/RAMWatson/](https://www.linkedin.com/in/RAMWatson/)
 
-Project Link: [https://github.com/Elisik/RSVP-DApp](https://github.com/Elisik/RSVP-DApp)
+Project Link: [https://github.com/0xBlueshiftLabs/RSVP-DApp](https://github.com/0xBlueshiftLabs/RSVP-DApp)
 
 
 
